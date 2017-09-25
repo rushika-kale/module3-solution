@@ -1,0 +1,134 @@
+/*Heading properties*/
+.heading-name{
+	margin-top: 5px;
+	padding: 5px;
+	margin-left: 10px;
+}
+
+/*Font and size of the heading name*/
+p{
+	font-weight: bold;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 2em;
+}
+ 
+#link-proper{
+	text-decoration: none;
+	color: #fbe9e7;
+}
+
+section{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+/*chicken paragraph boundry*/
+.chicken-paragraph{
+	border: 0px solid black;
+	overflow: hidden;
+	margin: 25px;
+	
+	padding: 10px;
+	background-color: #fbe9e7;
+
+}
+
+/*chicken heading*/
+.chicken-head{
+	position: relative;
+	text-align: center;
+	font-size: 1.8em;
+	font-weight: bold;
+	color: #bf360c;
+}
+
+/*chicken data properties*/
+.chicken-data{
+	padding: 10px;
+	margin: 10px;
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+/*beef paragraph boundry*/
+.beef-paragraph{
+	border: 0px solid black;
+	overflow: hidden;
+	margin: 20px;
+	padding: 10px;
+	background-color: #fbe9e7;
+}
+
+/*beef heading*/
+.beef-head{
+	position: relative;
+	text-align: center;
+	font-size: 1.8em;
+	font-weight: bold;
+	color: #bf360c;
+}
+
+/*beef data properties*/
+.beef-data{
+	padding: 10px;
+	margin: 10px;
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+/*sushi paragraph boundry*/
+.sushi-paragraph{
+	border: 0px solid black;
+	overflow: hidden;
+	margin: 20px;
+	padding: 10px;
+	background-color: #fbe9e7;
+}
+
+/*sushi heading*/
+.sushi-head{
+	position: relative;
+	text-align: center;
+	font-size: 1.8em;
+	font-weight: bold;
+	color: #bf360c;
+}
+
+/*sushi data properties*/
+.sushi-data{
+	padding: 10px;
+	margin: 10px;
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+/*heading of the page*/
+.nav-head{
+	font-weight: bold;
+	text-align: center;
+	color: #dd2c00;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.visible-sm{
+	display: none;
+}
+
+#collapsable-nav li{
+	border: 1px solid black;
+}
+
+#collapsable-nav li a{
+	color: black;
+	font-size: 1.2em;
+	font-weight: bold;
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+.nomargin{
+	margin: 0px !important;
+}
